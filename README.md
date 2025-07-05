@@ -29,8 +29,8 @@ On affichera pour chaque prévision
     • Humidité
 
 ## Screenshot
-<img src="imgs/startApp.png" />
+<img src="Meteo/app/imgs/startApp.png" />
 
-<img src="imgs/resultApp.png" />
+<img src="Meteo/app/imgs/resultApp.png" />
 
 
